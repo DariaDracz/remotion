@@ -1,0 +1,21 @@
+node_modules/
+out/
+dist/
+.remotion/
+.DS_Store
+.env
+.env.*
+!.env.example
+# Nagrania pozostają lokalnie. Nie dodawać ich przez git add -f.
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.avi
+*.wav
+*.mp3
+*.mkv
+public/media/*
+!public/media/.gitkeep
+config/local*.json
+build/
