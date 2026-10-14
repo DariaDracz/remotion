@@ -1,0 +1,183 @@
+{
+  "source": "",
+  "sourceDurationSeconds": 24,
+  "hook": "Jedno pytanie.\nLepsza decyzja.",
+  "hookSeconds": 3,
+  "speaker": "Imię i nazwisko",
+  "role": "Ekspert Kancelarii ILT",
+  "topic": "Perspektywa eksperta",
+  "logo": "",
+  "cta": {
+    "title": "Porozmawiajmy o Twojej firmie.",
+    "action": "Umów konsultację",
+    "destination": "kancelariailt.pl",
+    "seconds": 4
+  },
+  "clips": [
+    {
+      "label": "Hook",
+      "startSeconds": 0,
+      "endSeconds": 5,
+      "zoomFrom": 1,
+      "zoomTo": 1.035,
+      "focusX": 50,
+      "focusY": 42,
+      "transition": "cut"
+    },
+    {
+      "label": "Główna myśl",
+      "startSeconds": 7,
+      "endSeconds": 12,
+      "zoomFrom": 1.045,
+      "zoomTo": 1.075,
+      "focusX": 50,
+      "focusY": 42,
+      "transition": "cut"
+    },
+    {
+      "label": "Wniosek",
+      "startSeconds": 16,
+      "endSeconds": 20,
+      "zoomFrom": 1.02,
+      "zoomTo": 1.055,
+      "focusX": 50,
+      "focusY": 42,
+      "transition": "dip"
+    }
+  ],
+  "captions": [
+    {
+      "text": "Zacznij",
+      "startMs": 3000,
+      "endMs": 3450,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " od",
+      "startMs": 3450,
+      "endMs": 3900,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " właściwego",
+      "startMs": 3900,
+      "endMs": 4350,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " pytania.",
+      "startMs": 4350,
+      "endMs": 4800,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "Prawo",
+      "startMs": 7000,
+      "endMs": 7500,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " i",
+      "startMs": 7500,
+      "endMs": 8000,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " podatki.",
+      "startMs": 8000,
+      "endMs": 8500,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "Spójrz",
+      "startMs": 9200,
+      "endMs": 9650,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " na",
+      "startMs": 9650,
+      "endMs": 10100,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " szerszy",
+      "startMs": 10100,
+      "endMs": 10550,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " kontekst.",
+      "startMs": 10550,
+      "endMs": 11000,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "Uporządkuj",
+      "startMs": 16000,
+      "endMs": 16500,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " informacje.",
+      "startMs": 16500,
+      "endMs": 17000,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    },
+    {
+      "text": "Wybierz",
+      "startMs": 17500,
+      "endMs": 18000,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " kolejny",
+      "startMs": 18000,
+      "endMs": 18500,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": false
+    },
+    {
+      "text": " krok.",
+      "startMs": 18500,
+      "endMs": 19000,
+      "timestampMs": null,
+      "confidence": null,
+      "pageBreakAfter": true
+    }
+  ],
+  "captionsStyle": "word",
+  "captionFontSize": 52,
+  "captionsBottom": 410,
+  "volume": 1,
+  "showSafeArea": false
+}
